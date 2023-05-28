@@ -23,6 +23,13 @@ sobel file_in.rpg file_out.ppm width_x_height num_of_threads
   <img src="https://github.com/Xentention/sobel_filter/assets/96055384/388fde3b-ead2-40dc-b48b-23e9d2239b35" width="250" />
 </p>
 
+Или вариант, который мне нравится больше;)
+<p float="left">
+  <img src="https://github.com/Xentention/sobel_filter/assets/96055384/309662ec-e788-449d-84f0-5daad9700975" width="250" />
+  <img src="https://github.com/Xentention/sobel_filter/assets/96055384/8f5c28b3-b3a2-4ac7-9ebb-f55eaa12c582" width="250" /> 
+  <img src="https://github.com/Xentention/sobel_filter/assets/96055384/2823bf98-df9b-4046-9df5-3cd0254f1585" width="250" />
+</p>
+
 
 ### Known issues🐞:
 - При увеличении числа потоков увеличивается и качество итогового изображения.
