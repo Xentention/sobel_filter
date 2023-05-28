@@ -16,11 +16,11 @@ sobel file_in.rpg file_out.ppm width_x_height num_of_threads
 
 ### Результаты:
 
-Изначальное фото; фото, обработанное в 1 поток; фото, обработанное в 512 потоков:
+Изначальное фото; фото, обработанное в 1 поток и фото, обработанное в 512 потоков:
 <p float="left">
-  <img src="https://github.com/Xentention/sobel_filter/assets/96055384/4f7257f5-8f0d-4eae-8cec-a3db95a39de7" width="250" />
-  <img src="https://github.com/Xentention/sobel_filter/assets/96055384/1a7286d2-a545-42e0-9ac3-75117f2da43e" width="250" /> 
-  <img src="https://github.com/Xentention/sobel_filter/assets/96055384/ac12b37b-1f51-4044-a602-bb2b1619b2a3" width="250" />
+  <img src="https://github.com/Xentention/sobel_filter/assets/96055384/91098ccc-0b2c-411c-9f1d-636105599a2d" width="250" />
+  <img src="https://github.com/Xentention/sobel_filter/assets/96055384/c0fa24e0-54ef-4f80-b300-e42967b25ef9" width="250" /> 
+  <img src="https://github.com/Xentention/sobel_filter/assets/96055384/388fde3b-ead2-40dc-b48b-23e9d2239b35" width="250" />
 </p>
 
 
