@@ -1,0 +1,2 @@
+all:
+	gcc src/main.c src/file_operations.c src/sobel.c -lm -o sobel
